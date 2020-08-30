@@ -1,6 +1,6 @@
 # spacer-helloroman
 
-This app is serving pictures from NASA API
+This app is using NASA API to search pictures based on query search.
 
 ## Project setup
 ```
