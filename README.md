@@ -1,5 +1,7 @@
 # spacer-helloroman
 
+This app is serving pictures from NASA API
+
 ## Project setup
 ```
 npm install
